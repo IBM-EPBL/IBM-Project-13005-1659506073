@@ -8,3 +8,10 @@
 
 # Technical Architecture
 ![ibmflow](https://user-images.githubusercontent.com/89738674/192158298-92111201-f16f-4c99-a798-90a59136817b.jpg)
+
+
+# Link to the works: 
+
+[Flask website](https://flaskfooddemand.herokuapp.com/)
+[Streamlit website](https://akil-rajendran-fooddemandestimation-main-ryk37x.streamlit.app/)
+[Youtube Link](https://youtu.be/qIKbOKjGknE)
