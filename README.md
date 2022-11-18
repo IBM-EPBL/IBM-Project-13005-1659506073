@@ -12,6 +12,6 @@
 
 # Link to the works: 
 
-[Flask website](https://flaskfooddemand.herokuapp.com/)
-[Streamlit website](https://akil-rajendran-fooddemandestimation-main-ryk37x.streamlit.app/)
-[Youtube Link](https://youtu.be/qIKbOKjGknE)
+- [Flask website](https://flaskfooddemand.herokuapp.com/)
+- [Streamlit website](https://akil-rajendran-fooddemandestimation-main-ryk37x.streamlit.app/)
+- [Youtube Link](https://youtu.be/qIKbOKjGknE)
